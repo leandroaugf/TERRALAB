@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const bankAccount_1 = require("./models/bankAccount")
+const bankAccount_1 = require("./models/bankAccount");
 const bankAccount_2 = require("./models/bankAccount");
 const bankAccount_3 = require("./models/bankAccount");
 const user_1 = require("./models/user");
